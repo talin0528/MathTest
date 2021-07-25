@@ -13,3 +13,8 @@ def divide_new(a, b):
 
 def remainder(a, b):
 	return a//b
+
+def get_Abs(num):
+	if num>=0:
+		return num
+	else:
